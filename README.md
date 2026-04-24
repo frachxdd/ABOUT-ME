@@ -1,44 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ray</h1>
-<h3 align="center">Fullstack Developer from Indonesia</h3>
+## Hello World! I'am Rayy 👋
+
+![Banner](https://cdn.nekohime.site/file/Tqm8PUc7.jg)
+
+---
+
+🌸 About Me
+
+- 💻 Currently learning JavaScript & Node.js ecosystem
+- 🤖 Focused on building WhatsApp bots & Telegram bots
+- 🚀 Exploring automation, APIs, and backend logic
+- 📚 Always improving step by step (kaizen mindset 🔥)
+
+«「コードは芸術だ。」– Code is art.»
+
+---
+
+### 🌐 My Profile & Projects
+- 🐙 GitHub: [RayyScript](https://github.com/frachxdd)
+
+---
+
+🧠 Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,arduino,cpp&theme=light" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on **[nama proyek terkini]**
-- 🌱 Learning **Next.js + Tailwind**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **React, JavaScript, Tailwind**
-- 📫 Reach me: **[email/IG/LinkedIn]**
-- ⚡ Fun fact: **[hal unik kamu]**
+- ⚡ JavaScript — main language for bot logic
+- 🌐 Node.js — backend & automation
+- 🤖 Bot Development — WhatsApp & Telegram
+- 🔧 Arduino & C++ — hardware + low-level logic
 
 ---
 
-### 🛠 Tech Stack
+#### Study companion
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+✦ Learning Tools
+
+- 🧠 ChatGPT — debugging, idea generation, coding help
+- 🔍 Gemini — research & alternative solutions
+- ✨ Claude — explanation & clean logic breakdown
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username-mu]&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-mu]&theme=tokyonight" width="48%" />
+  <i>Made with ☕ + late night coding</i>
 </p>
-
----
-
-### 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](link-linkedin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](link-ig)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](link-twitter)
