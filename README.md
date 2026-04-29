@@ -1,25 +1,58 @@
 <h1 align="center">Hi 👋, I'm Fatah</h1>
-<h3 align="center">💻 Software Engineer | 🌐 Web Developer | 🚀 Builder</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachmadjs&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<p align="center">💻 Software Engineer • 🌐 Web Developer • 🚀 Building things that work</p>
 
 ---
 
 ## 🧠 About Me
 
+- Focused on full-stack web development  
+- Turning ideas into real, functional products  
+- Into clean code, simple UI, and solid logic  
+- Currently leveling up in backend & system design  
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Code+Clean%2C+Ship+Fast;Debugging+Life+and+Code;Always+Leveling+Up" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
-class Developer {
-  name = "Fatah";
-  username = "rachmadjs";
-  roles = ["Software Engineer", "Web Developer"];
-  
-  techStack = {
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
+---
+
+## 🚀 What I Do
+
+- Build responsive and scalable web apps  
+- Develop REST APIs and backend systems  
+- Optimize performance and user experience  
+- Keep learning, keep shipping  
+
+---
+
+## 📂 Highlight
+
+- Fullstack web applications  
+- Frontend UI projects  
+- Backend API development  
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourlink">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build. Break. Learn. Repeat.”</i>
+</p>    frontend: ["HTML", "CSS", "JavaScript", "React"],
     backend: ["Node.js", "Express"],
     database: ["MongoDB", "MySQL"],
     tools: ["Git", "GitHub", "VS Code"]
