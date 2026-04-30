@@ -40,7 +40,7 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fatahrachmat13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourlink">
